@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhukar012
-- 👀 I’m interested in ...learn coding and build applications
-- 🌱 I’m currently learning ...Java Programming
+- 👀 I’m interested in ... learn coding and build applications
+- 🌱 I’m currently learning ... Java Programming
 - 📫 How to reach me ... via my gmail : madhukaracharya2003@gmail.com
 
 <!---
